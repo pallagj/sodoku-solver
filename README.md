@@ -16,7 +16,7 @@ The `map` means a sodoku puzzle with the [current format](##format-of-sodoku-puz
 
 **Example**
 You can load a sodoku puzzle easily from console, and solve it:
-```
+```bash
 load .4..8..7.2....4.5.7....96.4374...8.....836.....6...9351.23....7.9.4....6.6..1..2.
 solve
 ```
