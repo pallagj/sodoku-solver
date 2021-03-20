@@ -12,7 +12,7 @@ You can run this `C program` on the console, which can solve a `sodoku puzzle` e
 | **exit**         | exit from the program                                       |
 | **help**         | some help how to use this program                           |
 
-The `map` means a sodoku puzzle with the [current format](##format-of-sodoku-puzzle), wich can be specified through the console easily, or the file needs to be included. The `path` is the path to the file.
+The `map` means a sodoku puzzle with the [current format](#format-of-sodoku-puzzle), wich can be specified through the console easily, or the file needs to be included. The `path` is the path to the file.
 
 **Example**
 You can load a sodoku puzzle easily from console, and solve it:
