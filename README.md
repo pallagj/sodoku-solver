@@ -3,7 +3,7 @@
 You can run this `C program` on the console, which can solve a `sodoku puzzle` efficiently.
 
 **Format of sodoku:**
-`
+````
 6.3 5.. ... 
 .12 ... 9.. 
 ... ..4 ... 
@@ -15,4 +15,4 @@ You can run this `C program` on the console, which can solve a `sodoku puzzle` e
 ... 4.. ... 
 ..9 ... 75. 
 ... ..2 6.3 
-`
+````
