@@ -2,7 +2,7 @@
 
 You can run this `C program` on the console, which can solve a `sodoku puzzle` efficiently.
 
-**Format of sodoku:**
+**Format of sodoku puzzle:**
 ````
 6.3 5.. ... 
 .12 ... 9.. 
