@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "List.h"
+#include "list.h"
 #include "writeMap.h"
 
 //Kitörli a map-et

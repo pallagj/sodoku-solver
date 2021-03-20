@@ -1,7 +1,7 @@
 #ifndef READMAP_H_INCLUDED
 #define READMAP_H_INCLUDED
 
-#include "List.h"
+#include "list.h"
 
 /**
  * Beolvas egy listákból álló mátrixba a konzolból

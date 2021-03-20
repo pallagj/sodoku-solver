@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdbool.h>
 #include <stdarg.h>
-#include "List.h"
+#include "list.h"
 
 //LISTÁVAL A MÛVELETEK
 

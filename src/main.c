@@ -7,7 +7,7 @@
 #include "readMap.h"
 #include "writeMap.h"
 #include "solver.h"
-#include "List.h"
+#include "list.h"
 
 /*
   ** SODOKU SOLVER

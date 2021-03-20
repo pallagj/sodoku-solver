@@ -1,7 +1,7 @@
 #ifndef WRITEMAP_H_INCLUDED
 #define WRITEMAP_H_INCLUDED
 
-#include "List.h"
+#include "list.h"
 
 //PÁLYA KIÍRÁSA
 /**

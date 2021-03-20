@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 #include "writeMap.h"
-#include "List.h"
+#include "list.h"
 
 //Kiír n-szer egy c-karaktert a konozolra
 void printfChars(int n, char c) {
