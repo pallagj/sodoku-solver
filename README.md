@@ -3,7 +3,7 @@ You can run this `C program` on the console, which can solve a `sodoku puzzle` e
 
 ## Commands
 | Command          | description                                                 |
-|:---------------.-|-------------------------------------------------------------|
+|:-----------------|-------------------------------------------------------------|
 | **load \<map>**  | load a sodoku map from consol                               |
 | **open \<path>** | open a sodoku map from file (the file containts <map> text) |
 | **save \<path>** | save opened sodoku                                          |
