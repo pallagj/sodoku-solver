@@ -16,3 +16,5 @@ You can run this `C program` on the console, which can solve a `sodoku puzzle` e
 ..9 ... 75. 
 ... ..2 6.3 
 ````
+
+Yes
