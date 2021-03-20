@@ -36,4 +36,4 @@ solve
 ... ..2 6.3 
 ```
 
-> Zero can be used instead of the dot character, and spaces and enters are optional. The specified format is valid for input specified through a console or file.
+> Zero can be used instead of the dot character, and spaces and enters are optional. The specified format is valid for input through a console or file.
