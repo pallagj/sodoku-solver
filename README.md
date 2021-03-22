@@ -1,5 +1,5 @@
 # sodoku-solver
-You can run this `C program` on your console to solve `sodoku puzzles`. The algorithm finds the solution in an **efficient way**.
+You can run this `C program` on your console to solve `sodoku puzzles`. The algorithm finds the solution in a very **efficient way**.
 
 ## Commands
 | Command          | description                                                 |
